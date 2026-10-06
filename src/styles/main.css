@@ -67,6 +67,10 @@
   --font-body: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif;
 }
 
+:lang(zh-TW) {
+  --font-body: 'PingFang TC', 'Microsoft JhengHei', 'Noto Sans TC', system-ui, sans-serif;
+}
+
 /* ============================================================
    Semantic Colors — dark-mode defaults, light overrides below
    ============================================================ */
